@@ -1,0 +1,63 @@
+
+.topbar{
+    margin-top: 20px;
+}
+
+.movebanner{
+    background-color:white;
+    margin-left: 50px;
+    margin-right: 70px;
+    padding: 30px 40px;
+    border-radius: 8px;
+    
+    
+}
+.logo{
+    padding: 0%;
+    
+}
+img{
+    width: 20%;
+    margin-left:20px ;
+}
+.button{
+    background-color: black;
+    color:white;
+    border:none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.smartphone{
+    margin-top: 30px;
+}
+.card{
+    padding: 5px 20px;
+    border-radius: 7px;
+}
+.laptop{
+    padding: 15px 50px 15px 60px;
+    margin-left: 44px;
+    
+    
+}
+.center{
+    text-align: center;
+}
+.bottom{
+    margin-top: 60px;
+}
+.last{
+    background-color: thistle;
+    height: 150px;
+}
+.pic img{
+   
+
+}
+.small img{
+    padding: 200px
+    ;
+    
+}
